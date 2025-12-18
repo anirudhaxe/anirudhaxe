@@ -4,7 +4,7 @@
 
 Invested in cloud native, iac, container orchestration & full stack ts frameworks.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aniruudhdev?label=Twitter)](https://x.com/axedotdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aniruudhdev?label=Twitter)](https://x.com/varchar256kb)
 
 ---
 
@@ -26,5 +26,5 @@ Invested in cloud native, iac, container orchestration & full stack ts framework
 #
 
 ```javascript
-// I use vs code (with vim motions) btw
+// The only modes I know are INSERT, NORMAL, and VISUAL
 ```
