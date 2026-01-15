@@ -2,13 +2,13 @@
 
 **`Engineer`**
 
-Invested in cloud native, iac, container orchestration & full stack ts frameworks.
+Invested in backend development, cloud & cloud native, IAC and container orchestration.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aniruudhdev?label=Twitter)](https://x.com/varchar256kb)
 
 ---
 
-### Nerd about
+### Technical Proficiencies
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="K8s" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
@@ -24,7 +24,3 @@ Invested in cloud native, iac, container orchestration & full stack ts framework
 <br />
 
 #
-
-```javascript
-// The only modes I know are INSERT, NORMAL, and VISUAL
-```
